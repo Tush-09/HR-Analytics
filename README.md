@@ -5,19 +5,29 @@ After completing a few guided projects, I’m excited to present my 𝗳𝗶𝗿
 ➡𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝘀𝗸𝗶𝗹𝗹𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘂𝘀𝗲𝗱 𝘀𝗼 𝗳𝗮𝗿:
 
 • Requirement Gathering
+
 • Data Cleaning
+
 • DAX Calculations
+
 • Dashboard Layout Design
+
 • Chart and Dashboard Development
+
 • Insights Generation
 
 💎 𝗞𝗣𝗜𝘀:
 
 • Total Employees
+
 • Active Employees
+
 • Terminated Employees
+
 • Male Employees
+
 • Female Employees
+
 • Total Salary
 
 💡 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗥𝗲𝗽𝗼𝗿𝘁:
