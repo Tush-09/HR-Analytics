@@ -1,6 +1,6 @@
 # HR-Analytics
 
-After completing a few guided projects, I’m excited to present my 𝗳𝗶𝗿𝘀𝘁 𝘂𝗻𝗴𝘂𝗶𝗱𝗲𝗱 𝗽𝗿𝗼𝗷𝗲𝗰𝘁. I’ve been working very hard for the past month to gain a solid grasp of Power BI. Finally, I have prepared a 𝗛𝗥 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱.
+This repository showcases a comprehensive HR Analytics Dashboard designed to extract insights from HR data, enabling effective decision-making in human resource management. The dashboard provides a detailed analysis of various HR metrics and KPIs, including employee attrition, satisfaction, performance, and compensation trends.
 
 # Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiN2YwODUxMjEtM2Y0NC00YmViLTk5MjAtZmUxZmM1NDk2ZDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
