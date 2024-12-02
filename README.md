@@ -2,7 +2,7 @@
 
 This repository showcases a comprehensive HR Analytics Dashboard designed to extract insights from HR data, enabling effective decision-making in human resource management. The dashboard provides a detailed analysis of various HR metrics and KPIs, including employee attrition, satisfaction, performance, and compensation trends.
 
-# Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiN2YwODUxMjEtM2Y0NC00YmViLTk5MjAtZmUxZmM1NDk2ZDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Dashboard link: [https://app.powerbi.com/view?r=eyJrIjoiN2YwODUxMjEtM2Y0NC00YmViLTk5MjAtZmUxZmM1NDk2ZDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://lnkd.in/gp8Th6FH)
 
 ➡𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝘀𝗸𝗶𝗹𝗹𝘀 𝗜 𝗵𝗮𝘃𝗲 𝘂𝘀𝗲𝗱 𝘀𝗼 𝗳𝗮𝗿:
 
